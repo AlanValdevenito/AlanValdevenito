@@ -24,11 +24,7 @@
     Destacó como proyecto un juego multijugador que se desarrolló de forma colaborativa como parte de un trabajo universitario, el cual consiste en una remake del Worms 2D.
     El proyecto fue desarrollado en C++, tiene una simulación física usando el framework Box2D y la interfaz se creó usando las librerías de QT y SDL2pp.
     Como metodología de trabajo utilizamos Scrum. Se utiliza programación concurrente orientada a objetos y sockets TCP/IPv4 bloqueantes como protocolo de comunicación.
-    El proyecto tiene su propia <a href="https://alanvaldevenito.github.io">página web</a> donde se puede encontrar más información acerca del proyecto, acceder a su repositorio de <a href="https://github.com/AlanValdevenito/Worms">GitHub</a> y ver un tráiler del mismo el cual dejo a continuación:
-  </p>
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/cXs05yU9hYE?si=72hQtNOtD7Rwn_U5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+    El proyecto tiene su propia <a href="https://alanvaldevenito.github.io">página web</a> donde se puede encontrar más información acerca del proyecto, acceder a su <a href="https://github.com/AlanValdevenito/Worms">repositorio</a> de GitHub y ver un <a href="https://www.youtube.com/watch?v=cXs05yU9hYE">tráiler</a> del mismo.
 </div>
 
 <h2 align="center">Estadisticas</h2>
