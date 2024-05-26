@@ -3,7 +3,7 @@
 <h2 align="center">Informacion sobre mi</h2>
 
 <div align="center">
-  Soy estudiante de Ingenieria Informatica de la Universidad de Buenos Aires (UBA)
+  Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires (UBA), tengo 23 años y actualmente me encuentro empezando el cuarto año de la carrera.
 </div>
 
 <h2 align="center">Lenguajes de programacion y herramientas</h2>
