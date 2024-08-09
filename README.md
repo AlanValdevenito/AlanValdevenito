@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
 <h2 align="center">Proyectos</h2>
