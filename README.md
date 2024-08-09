@@ -50,6 +50,16 @@
   Se puede acceder a su <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/tree/main/ENTREGAS/TP2">repositorio</a> de GitHub, donde se encuentra la implementacion de estos modelos, el <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/blob/main/ENTREGAS/TP2/ENUNCIADO.pdf">enunciado</a> con mas detalles y el <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/blob/main/ENTREGAS/TP2/dataset.zip">dataset</a> del mismo.
 </div>
 
+<div align="center">
+  <h3 align="center">Ahorcado</h3>
+  <p align="center">
+    Destacó como proyecto la implementación de Ahorcado que se desarrolló de forma colaborativa como parte de un trabajo universitario para la materia Ingenieria de Software I, teniendo como objetivo la comprensión y la puesta en práctica de los conceptos y herramientas vistas en la materia.
+   
+   La aplicacion fue desarrollada en Python, utilizando como metodologia de trabajo Scrum. Se tuvieron reuniones semanales, donde se aplico el concepto de Daily y Retrospectiva. Además, se crearon issues por semana para cada integrante del equipo, las cuales estaban estimadas mediante Story Points para definir la prioridad y el tamaño de estas. Por otro lado, se hicieron prototipos para trasmitirle la idea del diseño al cliente.
+    
+  Se puede acceder a su <a href="https://github.com/AlanValdevenito/Proyecto-AnInfo">repositorio</a> de GitHub, donde se encuentra la implementacion de la aplicacion.
+</div>
+
 <h2 align="center">Estadisticas</h2>
 
 <p align= "center">
