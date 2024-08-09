@@ -27,6 +27,8 @@
   El proyecto fue desarrollado en C++, tiene una simulación física usando el framework Box2D y la interfaz se creó usando las librerías de QT y SDL2pp. Como metodología de trabajo utilizamos Scrum. Se utiliza programación concurrente orientada a objetos y sockets TCP/IPv4 bloqueantes como protocolo de comunicación.
     
   El proyecto tiene su propia <a href="https://alanvaldevenito.github.io">página web</a> donde se puede encontrar más información acerca del proyecto, acceder a su <a href="https://github.com/AlanValdevenito/Worms">repositorio</a> de GitHub y ver un <a href="https://www.youtube.com/watch?v=cXs05yU9hYE">tráiler</a> del mismo.
+
+Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS">pruebas de concepto</a> individuales. Una primer prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/SOCKETS">Sockets</a> y una segunda prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/THREADS">Threads</a>.
 </div>
 
 <div align="center">
@@ -53,7 +55,7 @@
 <div align="center">
   <h3 align="center">Ahorcado</h3>
   <p align="center">
-    Destacó como proyecto la implementación de Ahorcado que se desarrolló de forma colaborativa como parte de un trabajo universitario para la materia Ingenieria de Software I, teniendo como objetivo la comprensión y la puesta en práctica de los conceptos y herramientas vistas en la materia.
+    Destacó como proyecto la implementación de un Ahorcado que se desarrolló de forma colaborativa como parte de un trabajo universitario para la materia Ingenieria de Software I, teniendo como objetivo la comprensión y la puesta en práctica de los conceptos y herramientas vistas en la materia.
    
    La aplicacion fue desarrollada en Python, utilizando como metodologia de trabajo Scrum. Se tuvieron reuniones semanales, donde se aplico el concepto de Daily y Retrospectiva. Además, se crearon issues por semana para cada integrante del equipo, las cuales estaban estimadas mediante Story Points para definir la prioridad y el tamaño de estas. Por otro lado, se hicieron prototipos para trasmitirle la idea del diseño al cliente.
     
