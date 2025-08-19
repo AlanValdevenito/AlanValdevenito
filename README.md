@@ -3,17 +3,27 @@
 <h2 align="center">Informacion sobre mi</h2>
 
 <div align="center">
-  Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires (UBA), tengo 23 años y actualmente me encuentro empezando el cuarto año de la carrera.
+  Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires (UBA), tengo 24 años y actualmente me encuentro empezando el cuarto año de la carrera.
 </div>
 
 <h2 align="center">Lenguajes de programacion y herramientas</h2>
 
 <p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+<p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</p>
+
+<p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
@@ -29,6 +39,72 @@
   El proyecto tiene su propia <a href="https://alanvaldevenito.github.io">página web</a> donde se puede encontrar más información acerca del proyecto, acceder a su <a href="https://github.com/AlanValdevenito/Worms">repositorio</a> de GitHub y ver un <a href="https://www.youtube.com/watch?v=cXs05yU9hYE">tráiler</a> del mismo.
 
 Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS">pruebas de concepto</a> individuales. Una primer prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/SOCKETS">Sockets</a> y una segunda prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/THREADS">Threads</a>.
+</div>
+
+<div align="center">
+
+  <h3 align="center">Turnero</h3>
+
+  <p align="center">
+    Destacó como proyecto la resolucion de una problematica de negocio real mediante la implementación de una solución basada en software. A diferencia de otros proyectos académicos, no existía un enunciado ni una lista de funcionalidades predefinidas. Tuvimos un "cliente" cuyo rol fue ocupado por uno de los miembros del equipo docente con un problema de negocio. A partir de esto, nosotros tuvimos que relevar el problema y plantear un proyecto para solucionarlo. Es decir, nosotros tuvimos que identificar las funcionalidades, darles forma de User Stories, validarlas con el cliente, diseñar, codear, testear e implementar.
+
+  La problemática de negocio consistía en la **automatización de los turnos médicos en un hospital**. Nuestra solución fue desarrollar un sistema compuesto por dos elementos principales: una **API REST**, responsable de la gestión de usuarios, médicos y turnos, y un **BOT de Telegram**, que funcionó como interfaz directa para los pacientes. De este modo, los pacientes podían solicitar, cancelar y consultar turnos médicos de manera sencilla, mientras que la API garantizaba la correcta administración de la información.
+  </p>
+
+  <details>
+  <summary><b>Más detalles acerca del proyecto</b></summary>
+  <br>
+
+  Utilizamos la técnica de **[User Story Mapping](https://10pines.gitbook.io/desarrollo-de-software-agil-en-10pines/product-discovery#user-story-mapping)** para relevar las funcionalidades. 
+
+  El proyecto se desarrolló en el transcurso de **tres semanas**, trabajando con iteraciones semanales bajo el estilo de **Extreme Programming (XP)**. Esto implicó planificar tanto a alto nivel, mediante un release plan inicial, como semana a semana, dando visibilidad en un esquema de entrega continua y al final de la semana revisar lo realizado tanto a nivel producto como a nivel proceso. 
+  
+  El flujo de trabajo fue el siguiente: primero relevamos las funcionalidades y presentamos un release plan a nuestro Product Owner (PO), quien definió cuál sería el MVP. A partir de allí, en cada iteración (con excepción de la primera, que tuvo solo Planning), los jueves realizábamos **Review, Planning y Retrospective**, y durante la semana trabajábamos en un esquema de entrega continua. Esto significaba que cada funcionalidad (User Story) debía estar validada en producción antes de llegar a la Review, para lo cual definimos un proceso claro: Al comienzo de cada iteracion le comunicabamos a nuestro PO el alcance de la iteracion (es decir, que US entraban en la iteracion donde cada US tenia su estimacion relativa). Antes de comenzar con el desarrollo de cada User Story debíamos enviar al PO los **Gherkin** correspondientes, que él validaba y autorizaba. Una vez que la funcionalidad estaba completa, se desplegaba en el ambiente de test para que el PO pudiera testearla y, tras su aprobación, se realizaba el deploy a producción. De esta manera, siempre llegábamos a la Review con todas las funcionalidades ya disponibles en producción y validadas por el cliente. 
+
+  En cuanto a las metodologías aplicadas, trabajamos con **[BDD y TDD](https://drive.google.com/file/d/1whj-ZLlxVoHNaUnE6a8ckv_XHj9L7wg1/view?usp=sharing)**. La **forma de trabajo** se basó en integración continua, desarrollo en un único branch con trunk-based development, pair y mob programming, y un esquema de entrega continua. La colaboración y el versionado del código se gestionaron en **GitLab**, lo que nos permitió organizar el trabajo de manera centralizada y garantizar la integración continua. También gestionamos el despliegue en **dos ambientes cloud** diferenciados: uno de prueba y otro de producción.
+
+  En cuanto a diseño e implementación, aplicamos **arquitectura hexagonal** para desacoplar las capas de dominio de las de infraestructura, el **patrón Repository** para manejar el acceso a datos y los principios de **12-Factor App**.
+
+  La implementación técnica se realizó íntegramente en **Ruby**, tanto para la API REST como para el BOT de Telegram. La API fue desarrollada con **Sinatra** como microframework web, apoyándose en la gema **Faraday** para realizar solicitudes HTTP, y utilizando **Sequel** como ORM para la interacción con la base de datos. Como base de datos relacional utilizamos **PostgreSQL**. En cuanto a herramientas de desarrollo, empleamos **Cucumber y Gherkin** para las pruebas de aceptación, **RSpec** para las pruebas unitarias, **SimpleCov** para medir la cobertura del código, **Rubocop** para análisis estático y estilo, y **Rake** para la automatización de tareas comunes. 
+  
+  En el aspecto de infraestructura, el proyecto utilizó **[Neon](https://neon.com/)** como proveedor de base de datos, **[Sumologic](https://www.sumologic.com/)** para la gestión de logs y **Kubernetes** para el despliegue en la nube. 
+
+  La arquitectura general del proyecto puede consultarse <a href="https://drive.google.com/file/d/1LjbY6dtETmhxP2npj-uCvuaMqJUVTmLG/view?usp=sharing" target="_blank">aquí</a>.
+
+  En relación con las funcionalidades, identificamos y desarrollamos una serie de **User Stories** que abarcaban tanto las necesidades del hospital como las de los pacientes.
+
+  | ID   | Descripción                                                                 |
+  |------|-----------------------------------------------------------------------------|
+  | US19 | Como hospital quiero dar de alta una especialidad                          |
+  | US18 | Como hospital quiero dar de alta a un médico                               |
+  | US7  | Como hospital quiero consultar los turnos que tiene un paciente            |
+  | US3  | Como paciente quiero poder reservar un turno en un horario disponible      |
+  | US17 | Como paciente quiero poder registrarme utilizando mi email                 |
+  | US30 | Como hospital quiero consultar los turnos que tiene un médico              |
+  | US6  | Como paciente quiero ver mi historial de turnos                            |
+  | US14 | Como hospital quiero que el sistema respete feriados                       |
+  | US5  | Como paciente quiero ver mis próximos turnos                               |
+  | US26 | Como hospital quiero modificar el estado de un turno                       |
+  | US31 | Como paciente no puedo seleccionar más de 1 turno en un mismo listado      |
+  | US2  | Como paciente quiero poder reservar un turno por especialidad              |
+  | US22 | Como hospital quiero dar de baja un paciente                               |
+  | US20 | Como hospital quiero dar de baja a un médico                               |
+  | US15 | Como hospital quiero evitar superposición de turnos                        |
+  | US11 | Como hospital quiero penalizar acceso a turnos según historial de asistencia|
+  | US12 | Como hospital quiero que los turnos solo sean visibles a personal autorizado|
+  | US16 | Como hospital quiero restringir cantidad de turnos por especialidad        |
+  | US24 | Como hospital quiero modificar una especialidad                            |
+  | US4  | Como paciente quiero cancelar un turno reservado                           |
+  | US21 | Como hospital quiero dar de baja una especialidad                          |
+
+  Cada una de estas funcionalidades fue pensada, validada, desarrollada y puesta en producción siguiendo el esquema de trabajo descrito anteriormente.
+
+  </details>
+
+   Se puede acceder a sus dos repositorios de GitHub. Por un lado tenemos el <a href="https://github.com/AlanValdevenito/turnero-api">repositorio de la API</a> y por otro el <a href="https://github.com/AlanValdevenito/turnero-bot-telegram">repositorio del BOT de Telegram</a>
+
+   Mencionamos que los repositorios del proyecto fueron copiados en GitHub para su difusion, pero el desarrollo estuvo originalmente en GitLab.
+
 </div>
 
 <div align="center">
