@@ -138,6 +138,34 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   Se puede acceder a su <a href="https://github.com/AlanValdevenito/Proyecto-AnInfo">repositorio</a> de GitHub, donde se encuentra la implementacion de la aplicacion.
 </div>
 
+<div align="center">
+  <h3 align="center">Teoría de Algoritmos</h3>
+  <p align="center">
+    Destacó la realización de trabajos prácticos correspondientes a la materia <a href="https://algoritmos-rw.github.io/tda_bg/">Teoría de Algoritmos</a>, donde se estudiaron los siguientes temas:
+  </p>
+
+  <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+    <tbody>
+      <tr><td>1.</td><td>División y Conquista avanzada</td></tr>
+      <tr><td>2.</td><td>Algoritmos Greedy</td></tr>
+      <tr><td>3.</td><td>Programación Dinámica</td></tr>
+      <tr><td>4.</td><td>Backtracking</td></tr>
+      <tr><td>5.</td><td>Programación Lineal</td></tr>
+      <tr><td>6.</td><td>Redes de Flujo</td></tr>
+      <tr><td>7.</td><td>Reducción de problemas</td></tr>
+      <tr><td>8.</td><td>Clases de Complejidad</td></tr>
+    </tbody>
+  </table>
+  
+  <p align="center">
+    Se realizaron 3 trabajos prácticos grupales que evaluaron el desarrollo y análisis de los distintos algoritmos.
+   
+   Se puede acceder a su <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos-TPS">repositorio</a> de GitHub, donde se encuentra el desarrollo y análisis de cada algoritmo.
+
+   También se puede acceder a otro <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos">repositorio</a> de GitHub, donde se encuentran los ejercicios que realice para el estudio y práctica de la materia.
+  </p>
+</div>
+
 <h2 align="center">Estadisticas</h2>
 
 <p align= "center">
