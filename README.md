@@ -113,13 +113,15 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   <h3 align="center">Compilador de Lox en Rust</h3>
   <p align="center">
    
-  Destacó como proyecto la implementación de un compilador de [Lox](https://craftinginterpreters.com/the-lox-language.html) en [Rust](https://doc.rust-lang.org/book/) teniendo como referencia el libro [Crafting Interpreters](https://craftinginterpreters.com/contents.html) de Robert Nystrom.
+  Destacó como proyecto la implementación de un compilador de [Lox](https://craftinginterpreters.com/the-lox-language.html) en [Rust](https://doc.rust-lang.org/book/) teniendo como referencia la segunda parte del libro [Crafting Interpreters](https://craftinginterpreters.com/contents.html) de Robert Nystrom.
 
   ¿Que es Lox?. Es un lenguaje de programación creado por Robert Nystrom para el libro. Es un lenguaje específicamente diseñado para enseñar cómo construir intérpretes y máquinas virtuales. Lox es un lenguaje dinamico, tipado dinamicamente de alto nivel con sintaxis parecida a JavaScript. 
 
   A diferencia del libro (donde se implementa en C y con un compilador de una sola pasada) se implemento en Rust y con una separación de las fases de parseo y compilacion.
 
-  El compilador tiene su <a href="https://github.com/ricomateo/lox-compiler">repositorio</a> de GitHub y también se puede acceder a las [slides](https://docs.google.com/presentation/d/1FyM-nl8sC7lRgMgru87uVzur-gM--kwyu6buONDd5TI/edit?slide=id.g3a2a591218e_0_22#slide=id.g3a2a591218e_0_22) que fueron usadas para su presentación en la materia para la cual se implemento.
+  El compilador tiene su <a href="https://github.com/ricomateo/lox-compiler">repositorio</a> de GitHub y también se puede acceder a las [slides](https://docs.google.com/presentation/d/1FyM-nl8sC7lRgMgru87uVzur-gM--kwyu6buONDd5TI/edit?slide=id.g3a2a591218e_0_22#slide=id.g3a2a591218e_0_22) que fueron usadas para su presentación.
+
+  Adicionalmente, pude contribuir en mejoras a [Plox](https://github.com/FdelMazo/plox) agregando el operador `++` en los PR [#5](https://github.com/FdelMazo/plox/pull/5) y [#9](https://github.com/FdelMazo/plox/pull/9). Plox es un interprete de Lox en Python utilizado en las clases y esta basado en la primera parte del libro [Crafting Interpreters](https://craftinginterpreters.com/contents.html) de Robert Nystrom
 </div>
 
 <div align="center">
