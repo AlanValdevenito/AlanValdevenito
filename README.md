@@ -3,7 +3,9 @@
 <h2 align="center">Informacion sobre mi</h2>
 
 <div align="center">
-  Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires (UBA), tengo 24 años y actualmente me encuentro empezando el cuarto año de la carrera.
+  
+  Soy estudiante de [Ingeniería Informática](https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700_6e3b075bd4.pdf) en la Universidad de Buenos Aires (UBA), tengo 24 años y actualmente me quedan 5 materias y el trabajo profesional para terminar la carrera.
+  
 </div>
 
 <h2 align="center">Lenguajes de programacion y herramientas</h2>
@@ -27,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
-<h2 align="center">Proyectos</h2>
+<h2 align="center">Proyectos de FIUBA</h2>
 
 <div align="center">
   <h3 align="center">Worms 2D: Juego multijugador</h3>
@@ -105,6 +107,19 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
    Mencionamos que los repositorios del proyecto fueron copiados en GitHub para su difusion, pero el desarrollo estuvo originalmente en GitLab.
 
+</div>
+
+<div align="center">
+  <h3 align="center">Compilador de Lox en Rust</h3>
+  <p align="center">
+   
+  Destacó como proyecto la implementación de un compilador de [Lox](https://craftinginterpreters.com/the-lox-language.html) en [Rust](https://doc.rust-lang.org/book/) teniendo como referencia el libro [Crafting Interpreters](https://craftinginterpreters.com/contents.html) de Robert Nystrom.
+
+  ¿Que es Lox?. Es un lenguaje de programación creado por Robert Nystrom para el libro. Es un lenguaje específicamente diseñado para enseñar cómo construir intérpretes y máquinas virtuales. Lox es un lenguaje dinamico, tipado dinamicamente de alto nivel con sintaxis parecida a JavaScript. 
+
+  A diferencia del libro (donde se implementa en C y con un compilador de una sola pasada) se implemento en Rust y con una separación de las fases de parseo y compilacion.
+
+  El compilador tiene su <a href="https://github.com/ricomateo/lox-compiler">repositorio</a> de GitHub y también se puede acceder a las [slides](https://docs.google.com/presentation/d/1FyM-nl8sC7lRgMgru87uVzur-gM--kwyu6buONDd5TI/edit?slide=id.g3a2a591218e_0_22#slide=id.g3a2a591218e_0_22) que fueron usadas para su presentación en la materia para la cual se implemento.
 </div>
 
 <div align="center">
