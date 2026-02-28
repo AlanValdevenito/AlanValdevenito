@@ -277,8 +277,35 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   <br>
 
   <p align="center">
-    Se puede acceder a su <a href="u <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos-TPS">repositorio</a> de GitHub, donde se encuentra el codigo de cada trabajo practico y TDA implementado.
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/Algoritmos-y-Programacion-II">repositorio</a> de GitHub, donde se encuentra el codigo de cada trabajo practico y TDA implementado.
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h3 align="center">Programación Concurrente</h3>
+
+  <h4 align="center">Fork-Join</h4>
+
+  <p align="center">
+    Proyecto en <a href="https://doc.rust-lang.org/book/">Rust</a> para procesar datasets de PUBG y generar estadísticas sobre jugadores y armas utilizando el modelo <b>Fork-Join</b> de concurrencia.
+  </p>
+
+  <p align="center">
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/Fork-Join/tree/main">repositorio</a> de GitHub.
+  </p>
+
+  <h4 align="center">ConcuRide</h3>
+
+  <p align="center">
+    Proyecto grupal en <a href="https://doc.rust-lang.org/book/">Rust</a> simulando un sistema de transporte compartido, implementando concurrencia para procesar múltiples solicitudes de viajes simultáneamente.
+  </p>
+
+  <p align="center">
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/ConcuRide/tree/main">repositorio</a> de GitHub.
+  </p>
+
 </div>
 
 <h2 align="center">Estadisticas</h2>
