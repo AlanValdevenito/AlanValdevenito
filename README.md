@@ -329,7 +329,15 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 <h2 align="center">Resumenes/Apuntes</h2>
 
 <div align="center">
+  <h4 align="center"><a href="https://www.notion.so/Teor-a-25200c23a4ef80a2b702e79173c91d61">Probabilidad y Estadistica</a></h3>
+</div>
+
+<div align="center">
   <h4 align="center"><a href="https://www.notion.so/Resumen-5da8f78cf2be4903a06186a7df5ef427">Programación Concurrente - Catedra Deymonnaz - [2C 2024]</a></h3>
+</div>
+
+<div align="center">
+  <h4 align="center"><a href="https://www.notion.so/Clases-25700c23a4ef803e8f07c887387a711d">Empresas de base tecnologica I - Catedra Godoy - [2C 2025]</a></h3>
 </div>
 
 <div align="center">
