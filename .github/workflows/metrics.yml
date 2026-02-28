@@ -19,29 +19,9 @@ jobs:
           user: AlanValdevenito
 
           # ========================
-          # Base
+          # Base (solo header + actividad)
           # ========================
-          base: header, activity, repositories
-
-          # ========================
-          # Repos destacados (manual)
-          # ========================
-          repositories: >
-            AlanValdevenito/Worms,
-            AlanValdevenito/turnero-api,
-            AlanValdevenito/turnero-bot-telegram,
-            AlanValdevenito/lox-compiler,
-            AlanValdevenito/TP1-Redes
-          repositories_batch: 5
-
-          # ========================
-          # Languages (mostrar nombres)
-          # ========================
-          plugin_languages: yes
-          plugin_languages_limit: 10
-          plugin_languages_threshold: 0%
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          base: header, activity
 
           # ========================
           # Commit calendar
