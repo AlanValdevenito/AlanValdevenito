@@ -17,6 +17,37 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AlanValdevenito
-          base: header, activity
+
+          # ========================
+          # Base sections
+          # ========================
+          base: header, activity, repositories
+
+          # ========================
+          # Languages
+          # ========================
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_ignored: ""
+
+          # ========================
+          # Stars
+          # ========================
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # ========================
+          # Commit calendar
+          # ========================
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # ========================
+          # Config visual
+          # ========================
+          template: classic
+          config_timezone: America/Argentina/Buenos_Aires
