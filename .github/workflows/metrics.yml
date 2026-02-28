@@ -21,10 +21,10 @@ jobs:
           # ========================
           # Base sections
           # ========================
-          base: header, activity, repositories
+          base: header, activity
 
           # ========================
-          # Languages
+          # Languages (estable)
           # ========================
           plugin_languages: yes
           plugin_languages_limit: 10
@@ -32,10 +32,11 @@ jobs:
           plugin_languages_sections: most-used
 
           # ========================
-          # Stars
+          # Repos destacados (MANUAL)
           # ========================
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_featured: AlanValdevenito/Worms, AlanValdevenito/turnero-api, AlanValdevenito/turnero-bot-telegram, AlanValdevenito/lox-compiler, AlanValdevenito/TP1-Redes
+          plugin_repositories_limit: 5
 
           # ========================
           # Commit calendar
@@ -44,7 +45,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           # ========================
-          # Config visual
+          # Visual
           # ========================
           template: classic
           config_timezone: America/Argentina/Buenos_Aires
