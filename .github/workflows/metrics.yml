@@ -1,0 +1,23 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@v3.28
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AlanValdevenito
+
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_achievements: yes
