@@ -332,6 +332,10 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   <h4 align="center"><a href="https://www.notion.so/Resumen-5da8f78cf2be4903a06186a7df5ef427">Programación Concurrente - Catedra Deymonnaz - [2C 2024]</a></h3>
 </div>
 
+<div align="center">
+  <h4 align="center"><a href="https://www.notion.so/Clases-25400c23a4ef80b399b9c448a78b1d71">Lenguajes y compiladores I - Catedra Del Mazo - [2C 2025]</a></h3>
+</div>
+
 <h2 align="center">Estadisticas</h2>
 
 <p align= "center">
