@@ -43,6 +43,8 @@
 Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <a href="https://github.com/AlanValdevenito/Worms-PoC">pruebas de concepto</a> individuales. Una primer prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/SOCKETS">Sockets</a> y una segunda prueba de concepto sobre <a href="https://github.com/AlanValdevenito/Taller-De-Programacion-I/tree/main/ENTREGAS/THREADS">Threads</a>.
 </div>
 
+---
+
 <div align="center">
 
   <h3 align="center">Turnero</h3>
@@ -109,6 +111,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
 </div>
 
+---
+
 <div align="center">
   <h3 align="center">Compilador de Lox en Rust</h3>
   <p align="center">
@@ -124,6 +128,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   Adicionalmente, pude contribuir en mejoras a [Plox](https://github.com/FdelMazo/plox) agregando el operador `++` en los PR [#5](https://github.com/FdelMazo/plox/pull/5) y [#9](https://github.com/FdelMazo/plox/pull/9). Plox es un interprete de Lox en Python utilizado en las clases y esta basado en la primera parte del libro [Crafting Interpreters](https://craftinginterpreters.com/contents.html) de Robert Nystrom
 </div>
 
+---
+
 <div align="center">
   <h3 align="center">File Transfer</h3>
   <p align="center">
@@ -133,6 +139,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
     
   Se puede acceder a su <a href="https://github.com/AlanValdevenito/TP1-Redes">repositorio</a> de GitHub, donde se encuentra la implementacion de la aplicacion, el <a href="https://github.com/AlanValdevenito/TP1-Redes/blob/main/enunciado.pdf">enunciado</a> con mas detalles y el <a href="https://github.com/AlanValdevenito/TP1-Redes/blob/main/informe.pdf">informe</a> del mismo.
 </div>
+
+---
 
 <div align="center">
   <h3 align="center">Machine Learning</h3>
@@ -145,6 +153,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   Se puede acceder a su <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/tree/main/ENTREGAS/TP2">repositorio</a> de GitHub, donde se encuentra la implementacion de estos modelos, el <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/blob/main/ENTREGAS/TP2/ENUNCIADO.pdf">enunciado</a> con mas detalles y el <a href="https://github.com/AlanValdevenito/Organizacion-de-Datos/blob/main/ENTREGAS/TP2/dataset.zip">dataset</a> del mismo.
 </div>
 
+---
+
 <div align="center">
   <h3 align="center">Ahorcado</h3>
   <p align="center">
@@ -155,6 +165,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   Se puede acceder a su <a href="https://github.com/AlanValdevenito/Proyecto-AnInfo">repositorio</a> de GitHub, donde se encuentra la implementacion de la aplicacion.
 </div>
 
+---
+
 <div align="center">
   <h3 align="center">Teoría de Algoritmos</h3>
   <p align="center">
@@ -163,14 +175,14 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
   <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
     <tbody>
-      <tr><td>1.</td><td>División y Conquista avanzada</td></tr>
-      <tr><td>2.</td><td>Algoritmos Greedy</td></tr>
-      <tr><td>3.</td><td>Programación Dinámica</td></tr>
-      <tr><td>4.</td><td>Backtracking</td></tr>
-      <tr><td>5.</td><td>Programación Lineal</td></tr>
-      <tr><td>6.</td><td>Redes de Flujo</td></tr>
-      <tr><td>7.</td><td>Reducción de problemas</td></tr>
-      <tr><td>8.</td><td>Clases de Complejidad</td></tr>
+      <tr><td>1</td><td>División y Conquista avanzada</td></tr>
+      <tr><td>2</td><td>Algoritmos Greedy</td></tr>
+      <tr><td>3</td><td>Programación Dinámica</td></tr>
+      <tr><td>4</td><td>Backtracking</td></tr>
+      <tr><td>5</td><td>Programación Lineal</td></tr>
+      <tr><td>6</td><td>Redes de Flujo</td></tr>
+      <tr><td>7</td><td>Reducción de problemas</td></tr>
+      <tr><td>8</td><td>Clases de Complejidad</td></tr>
     </tbody>
   </table>
   
@@ -180,6 +192,92 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
    Se puede acceder a su <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos-TPS">repositorio</a> de GitHub, donde se encuentra el desarrollo y análisis de cada algoritmo.
 
    También se puede acceder a otro <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos">repositorio</a> de GitHub, donde se encuentran los ejercicios que realice para el estudio y práctica de la materia.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3 align="center">Algoritmos y programación II</h3>
+
+  <p align="center">
+    Desarrollo de los trabajos prácticos y tipos de datos abstractos de la materia 
+    <a href="https://algoritmos-rw.github.io/algoritmos/">Algoritmos y Programación II</a>.
+    <br><br>
+    Implementado íntegramente en <b>C</b>, con fuerte énfasis en memoria dinámica, complejidad y diseño de TDAs.
+  </p>
+
+  <h4 align="center">Temas de la materia</h4>
+
+  <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+    <tbody>
+      <tr><td>1</td><td>Punteros y memoria dinámica</td></tr>
+      <tr><td>2</td><td>Complejidad algorítmica y recursividad</td></tr>
+      <tr><td>3</td><td>Tipos de datos abstractos (Pila, Cola, Lista)</td></tr>
+      <tr><td>4</td><td>Algoritmos de ordenamiento</td></tr>
+      <tr><td>5</td><td>Hashing y diccionarios</td></tr>
+      <tr><td>6</td><td>Árboles binarios de búsqueda</td></tr>
+      <tr><td>7</td><td>Heaps y colas de prioridad</td></tr>
+      <tr><td>8</td><td>Grafos (BFS, DFS, componentes conexas)</td></tr>
+      <tr><td>9</td><td>Algoritmos sobre grafos (Dijkstra, Prim, Kruskal, Backtracking)</td></tr>
+    </tbody>
+  </table>
+
+  <br>
+
+  <h4 align="center">Trabajos prácticos</h4>
+
+<table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th style="padding: 6px 12px;">Trabajos practicos / Tipos de datos abstractos</th>
+      <th style="padding: 6px 12px;">Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Pila</b></td>
+      <td>Implementación de una pila dinámica (LIFO) basada en arreglo redimensionable.</td>
+    </tr>
+    <tr>
+      <td><b>Cola enlazada</b></td>
+      <td>Implementación de una cola (FIFO) mediante lista simplemente enlazada.</td>
+    </tr>
+    <tr>
+      <td><b>TP1: fixcol</b></td>
+      <td>Utilidad de línea de comandos para procesamiento de archivos sin cargar el archivo completo en memoria.</td>
+    </tr>
+    <tr>
+      <td><b>Lista enlazada</b></td>
+      <td>Implementación de lista simplemente enlazada con iterador externo e interno.</td>
+    </tr>
+    <tr>
+      <td><b>Hash</b></td>
+      <td>Tabla de hash con direccionamiento abierto, exploración lineal y redimensionamiento dinámico.</td>
+    </tr>
+    <tr>
+      <td><b>ABB</b></td>
+      <td>Árbol binario de búsqueda con iteradores in-order y manejo de borrado en los tres casos.</td>
+    </tr>
+    <tr>
+      <td><b>Heap</b></td>
+      <td>Heap binario máximo con heapify y heap_sort.</td>
+    </tr>
+    <tr>
+      <td><b>TP2: AlgoGram</b></td>
+      <td>Red social de consola con sistema de login, publicaciones, feed personalizado y likes utilizando TDAs propios.</td>
+    </tr>
+    <tr>
+      <td><b>TP3: NetStats</b></td>
+      <td>Modelado de Wikipedia como grafo dirigido con implementación de TDA Grafo y algoritmos sobre grafos.</td>
+    </tr>
+  </tbody>
+</table>
+
+  <br>
+
+  <p align="center">
+    Se puede acceder a su <a href="u <a href="https://github.com/AlanValdevenito/Teoria-de-Algoritmos-TPS">repositorio</a> de GitHub, donde se encuentra el codigo de cada trabajo practico y TDA implementado.
   </p>
 </div>
 
