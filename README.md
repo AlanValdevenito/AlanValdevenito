@@ -289,7 +289,15 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   <h4 align="center">Fork-Join</h4>
 
   <p align="center">
-    Proyecto en <a href="https://doc.rust-lang.org/book/">Rust</a> para procesar datasets de PUBG y generar estadísticas sobre jugadores y armas utilizando el modelo <b>Fork-Join</b> de concurrencia.
+    Este proyecto implementa en <a href="https://doc.rust-lang.org/book/">Rust</a> una herramienta concurrente para procesar grandes volúmenes de <a href="https://www.kaggle.com/datasets/skihikingkevin/pubg-match-deaths">datos</a> extraídos de partidas del videojuego PUBG. El objetivo principal es aplicar el modelo de concurrencia Fork‑Join, un patrón de paralelización donde las tareas se dividen en subtareas independientes que se ejecutan en paralelo y luego se fusionan para producir el resultado final.
+  </p>
+
+  <p align="center">
+    La aplicación toma como entrada un directorio con múltiples archivos .csv correspondientes a registros de muertes en partidas, y, utilizando una cantidad configurable de threads, procesa cada línea de forma concurrente. Cada línea representa un evento de muerte de jugador, y el código extrae información clave como el arma usada (killed_by) y el nombre del jugador que realizó la acción (killer_name).
+  </p>
+
+  <p align="center">
+    El resultado final se serializa en un formato JSON bien definido, que incluye las métricas solicitadas como top de jugadores y top de armas, con porcentajes y promedios calculados según las reglas del trabajo práctico.
   </p>
 
   <p align="center">
@@ -300,6 +308,18 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
   <p align="center">
     Proyecto grupal en <a href="https://doc.rust-lang.org/book/">Rust</a> simulando un sistema de transporte compartido, implementando concurrencia para procesar múltiples solicitudes de viajes simultáneamente.
+  </p>
+
+  <p align="center">
+    El sistema está diseñado para representar un conjunto de entidades conectadas por red: pasajeros que solicitan viajes desde una ubicación de origen hasta un destino, conductores que reciben y aceptan o rechazan ofertas de viaje basándose en su proximidad, y un módulo de pago (gateway) que autoriza y registra transacciones de forma concurrente.
+  </p>
+
+  <p align="center">
+    La arquitectura del proyecto contempla servidores réplicas y un servidor líder, que actúan como intermediarios para coordinar y compartir información entre los pasajeros y los conductores. Las réplicas se comunican entre sí para garantizar resiliencia ante fallas y disponibles de red, utilizando protocolos y algoritmos de elección de líder para mantener continuidad de servicio si el servidor principal cae.
+  </p>
+
+  <p align="center">
+    Cada componente del sistema está implementado siguiendo un modelo de actores concurrentes y comunicación por sockets TCP/UDP. El servidor actúa como intermediario y gestor de estado global, informando sobre conductores disponibles y distribuyendo actualizaciones de red. Pasajeros y conductores se conectan al servidor para iniciar sesión, obtener listados de oferta/demanda y coordinar viajes de manera distribuida. La comunicación entre réplicas y la detección de fallas (por ejemplo, elección de nuevo líder) usa mecanismos como mensajes de Ping/Pong y algoritmos de consenso tipo ring.
   </p>
 
   <p align="center">
