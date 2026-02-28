@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@v3.28
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AlanValdevenito
