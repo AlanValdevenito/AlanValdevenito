@@ -223,8 +223,6 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
     </tbody>
   </table>
 
-  <br>
-
   <h4 align="center">Trabajos prácticos</h4>
 
 <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
@@ -326,6 +324,12 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
     Se puede acceder a su <a href="https://github.com/AlanValdevenito/ConcuRide/tree/main">repositorio</a> de GitHub.
   </p>
 
+</div>
+
+<h2 align="center">Resumenes/Apuntes</h2>
+
+<div align="center">
+  <h4 align="center"><a href="https://www.notion.so/Resumen-5da8f78cf2be4903a06186a7df5ef427">Programación Concurrente - Catedra Deymonnaz - [2C 2024]</a></h3>
 </div>
 
 <h2 align="center">Estadisticas</h2>
