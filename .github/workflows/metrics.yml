@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@v3
+        uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AlanValdevenito
@@ -30,7 +30,6 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
 
           # ========================
           # Stars
