@@ -346,9 +346,8 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
 <h2 align="center">Estadisticas</h2>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=AlanValdevenito&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanValdevenito&theme=react&layout=compact" />
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <h2 align="center">Contacto</h2>
