@@ -329,12 +329,10 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 <div align="center">
   <h2 align="center">Proyectos Personales</h2>
 
-  <br>
-
   <h3 align="center">Monkey Interpreter</h3>
 
   <p align="center">
-    Implementación de un intérprete del lenguaje Monkey en <b>Go</b>, basado en el libro <i>Writing an Interpreter in Go</i> de Thorsten Ball. El objetivo es profundizar en la comprensión de cómo funcionan los lenguajes de programación, los intérpretes y la evaluación de expresiones teniendo en cuenta que ya participe en la implementación de un compilador.
+    Implementación de un intérprete del lenguaje Monkey en <b>Go</b>, basado en el libro <b>Writing an Interpreter in Go</b> de Thorsten Ball. El objetivo es profundizar en la comprensión de cómo funcionan los lenguajes de programación, los intérpretes y la evaluación de expresiones teniendo en cuenta que ya participe en la implementación de un compilador.
   </p>
 
   <p align="center">
