@@ -326,6 +326,52 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 
 </div>
 
+<div align="center">
+  <h2 align="center">Proyectos Personales</h2>
+
+  <br>
+
+  <h3 align="center">Monkey Interpreter</h3>
+
+  <p align="center">
+    Implementación de un intérprete del lenguaje Monkey en <b>Go</b>, basado en el libro <i>Writing an Interpreter in Go</i> de Thorsten Ball. El objetivo es profundizar en la comprensión de cómo funcionan los lenguajes de programación, los intérpretes y la evaluación de expresiones teniendo en cuenta que ya participe en la implementación de un compilador.
+  </p>
+
+  <p align="center">
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/monkey-interpreter">repositorio</a> de GitHub.
+  </p>
+
+  <br>
+
+  <h3 align="center">Planner</h3>
+
+  <p align="center">
+    Aplicación web desarrollada en <b>Python</b> utilizando <b>FastAPI</b> como framework principal, basada en el libro <i>Building Python Web APIs with FastAPI</i>. 
+    El proyecto consiste en una aplicación tipo planner donde usuarios registrados pueden crear, actualizar y eliminar eventos. 
+  </p>
+
+  <p align="center">
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/Planner-Web-Application">repositorio</a> de GitHub.
+  </p>
+
+  <br>
+
+  <h3 align="center">Twitter Emotion Classifier</h3>
+
+  <p align="center">
+    Se trata de una prueba de concepto (PoC) que tiene como objetivo explorar cómo integrar un modelo de <b>Machine Learning</b> dentro de una API.
+  </p>
+
+  <p align="center">
+    Actualmente el proyecto está compuesto por un backend en <b>Python y FastAPI</b>, <a href="https://twitter-emotion-classifier-backend.onrender.com/version">desplegado en Render</a>, y un frontend desarrollado con <b>Vite y React</b>, <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">desplegado en Vercel</a>.
+    En el estado actual, el sistema expone únicamente el endpoint <code>/version</code>, el cual consulta la versión del backend y la muestra junto con la versión del frontend, validando así la correcta integración entre el backend y el frontend.
+  </p>
+
+  <p align="center">
+    El objetivo a futuro es incorporar progresivamente un modelo de clasificación de emociones sobre tweets.
+  </p>
+</div>
+
 <h2 align="center">Resumenes/Apuntes</h2>
 
 <div align="center">
