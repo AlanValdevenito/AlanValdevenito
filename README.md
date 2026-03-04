@@ -361,13 +361,24 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   </p>
 
   <p align="center">
-    Actualmente el proyecto está compuesto por un backend en <b>Python y FastAPI</b>, <a href="https://twitter-emotion-classifier-backend.onrender.com/version">desplegado en Render</a>, y un frontend desarrollado con <b>Vite y React</b>, <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">desplegado en Vercel</a>.
-    En el estado actual, el sistema expone únicamente el endpoint <code>/version</code>, el cual consulta la versión del backend y la muestra junto con la versión del frontend, validando así la correcta integración entre el backend y el frontend.
+    Actualmente el proyecto está compuesto por un backend en <b>Python y FastAPI</b>, <a href="https://twitter-emotion-classifier-backend.onrender.com/version">desplegado en Render</a>, y una base de datos <b>PostgreSQL</b> que también se encuentra en Render. Tiene un frontend desarrollado con <b>Vite y React</b>, <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">desplegado en Vercel</a>.
   </p>
 
   <p align="center">
-    El objetivo a futuro es incorporar progresivamente un modelo de clasificación de emociones sobre tweets.
-  </p>
+  Se pueden ver y probar los endpoints que tiene actualmente la API mediante documentación interactiva generada automáticamente por <b>FastAPI</b> utilizando <a href="https://twitter-emotion-classifier-backend.onrender.com/docs">Swagger UI</a> y <a href="https://twitter-emotion-classifier-backend.onrender.com/redoc">ReDoc</a>.
+</p>
+
+<p align="center">
+  Actualmente los modelos disponibles son <b>Logistic Regression</b> y <b>Multinomial NB</b>.
+</p>
+
+<p align="center">
+  Otras opciones para probar los endpoint de la API son <a href="https://www.postman.com/">Postman</a> o mediante <b>curl</b> desde Linux.
+</p>
+
+<p align="center">
+  El próximo objetivo es integrar estos endpoints con el frontend desarrollado en React, de tal forma que se puedan realizar predicciones de emociones desde el frontend.
+</p>
 </div>
 
 <h2 align="center">Resumenes/Apuntes</h2>
