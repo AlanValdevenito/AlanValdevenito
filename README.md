@@ -369,6 +369,10 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 </p>
 
 <p align="center">
+  Desde el frontend se pueden consultar las <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">versiones</a> del backend y del frontend. También se encuentra disponible desde el frontend el endpoint para <a href="https://twitter-emotion-classifier-frontend.vercel.app/predict">predecir</a> la emoción de un tweet.
+</p>
+
+<p align="center">
   Actualmente los modelos disponibles son <b>Logistic Regression</b> y <b>Multinomial NB</b>.
 </p>
 
@@ -377,7 +381,7 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 </p>
 
 <p align="center">
-  El próximo objetivo es integrar estos endpoints con el frontend desarrollado en React, de tal forma que se puedan realizar predicciones de emociones desde el frontend.
+  El próximo objetivo es integrar los endpoints de los usuarios con el frontend desarrollado en React, de tal forma que un usuario pueda registrarse.
 </p>
 </div>
 
