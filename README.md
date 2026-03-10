@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
@@ -329,10 +330,26 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 <div align="center">
   <h2 align="center">Proyectos Personales</h2>
 
+  <h3 align="center">Greenlight</h3>
+
+  <p align="center">
+    API desarrollada en <a href="https://go.dev/doc/">Go</a>, basada en el libro <a href="https://lets-go-further.alexedwards.net/">Let's Go Further</a> de Alex Edwards. El proyecto implementa una aplicación backend que permite gestionar información de películas, incluyendo funcionalidades de autenticación de usuarios, autorización basada en permisos, rate limiting, envío de correos y observabilidad mediante métricas.
+  </p>
+
+  <p align="center">
+    El objetivo fue introducirme en el desarrollo de APIs en <b>Go</b>.
+  </p>
+
+  <p align="center">
+    Se puede acceder a su <a href="https://github.com/AlanValdevenito/Greenlight">repositorio</a> de GitHub.
+  </p>
+
+  <br>
+
   <h3 align="center">Monkey Interpreter</h3>
 
   <p align="center">
-    Implementación de un intérprete del lenguaje Monkey en <b>Go</b>, basado en el libro <b>Writing an Interpreter in Go</b> de Thorsten Ball. El objetivo es profundizar en la comprensión de cómo funcionan los lenguajes de programación, los intérpretes y la evaluación de expresiones teniendo en cuenta que ya participe en la implementación de un compilador.
+    Implementación de un intérprete del lenguaje Monkey en <a href="https://go.dev/doc/">Go</a>, basado en el libro <a href="https://interpreterbook.com/">Writing an Interpreter in Go</a> de Thorsten Ball. El objetivo es profundizar en la comprensión de cómo funcionan los lenguajes de programación, los intérpretes y la evaluación de expresiones teniendo en cuenta que ya participe en la implementación de un compilador.
   </p>
 
   <p align="center">
@@ -344,8 +361,12 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   <h3 align="center">Planner</h3>
 
   <p align="center">
-    Aplicación web desarrollada en <b>Python</b> utilizando <b>FastAPI</b> como framework principal, basada en el libro <i>Building Python Web APIs with FastAPI</i>. 
+    API desarrollada en <a href="https://www.python.org/">Python</a> utilizando <a href="https://fastapi.tiangolo.com/">FastAPI</a> como framework principal, basada en el libro <b>Building Python Web APIs with FastAPI</b>. 
     El proyecto consiste en una aplicación tipo planner donde usuarios registrados pueden crear, actualizar y eliminar eventos. 
+  </p>
+
+  <p align="center">
+    El objetivo fue introducirme en el desarrollo de APIs en <a href="https://www.python.org/">Python</a> con <a href="https://fastapi.tiangolo.com/">FastAPI</a>.
   </p>
 
   <p align="center">
@@ -361,7 +382,7 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
   </p>
 
   <p align="center">
-    Actualmente el proyecto está compuesto por un backend en <b>Python y FastAPI</b>, <a href="https://twitter-emotion-classifier-backend.onrender.com/version">desplegado en Render</a>, y una base de datos <b>PostgreSQL</b> que también se encuentra en Render. Tiene un frontend desarrollado con <b>Vite y React</b>, <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">desplegado en Vercel</a>.
+    Actualmente el proyecto está compuesto por un backend en <a href="https://www.python.org/">Python</a> y <a href="https://fastapi.tiangolo.com/">FastAPI</a>, <a href="https://twitter-emotion-classifier-backend.onrender.com/version">desplegado en Render</a>, y una base de datos <b>PostgreSQL</b> que también se encuentra en Render. Tiene un frontend desarrollado con <b>Vite y React</b>, <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">desplegado en Vercel</a>.
   </p>
 
   <p align="center">
@@ -369,7 +390,7 @@ Por ultimo, antes de comenzar el desarrollo de este proyecto se realizaron dos <
 </p>
 
 <p align="center">
-  Desde el frontend se pueden consultar las <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">versiones</a> del backend y del frontend. También se encuentra disponible desde el frontend el endpoint para <a href="https://twitter-emotion-classifier-frontend.vercel.app/predict">predecir</a> la emoción de un tweet.
+  Desde el frontend se pueden consultar las <a href="https://twitter-emotion-classifier-frontend.vercel.app/version">versiones</a> del backend y del frontend, ya que el backend y el frontend se encuentran integrados entre si. También se encuentra disponible desde el frontend el endpoint para <a href="https://twitter-emotion-classifier-frontend.vercel.app/predict">predecir</a> la emoción de un tweet.
 </p>
 
 <p align="center">
