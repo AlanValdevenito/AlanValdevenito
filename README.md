@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  Soy estudiante de [Ingeniería en Informática](https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700_6e3b075bd4.pdf) en la Universidad de Buenos Aires (UBA), tengo 26 años y actualmente me quedan 3 materias para terminar la carrera.
+  Soy estudiante de [Ingeniería en Informática](https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700_6e3b075bd4.pdf) en la Universidad de Buenos Aires (UBA), tengo 25 años y actualmente me quedan 3 materias para terminar la carrera.
   
 </div>
 
