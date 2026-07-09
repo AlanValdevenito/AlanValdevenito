@@ -43,6 +43,22 @@
 <h2 align="center">Proyectos de FIUBA</h2>
 
 <div align="center">
+  <h3 align="center">Trabajo profesional: Data Analytics para la estimación de la presión de yacimientos de petróleo</h3>
+  <p align="center">
+    Destaco como proyecto mi trabajo profesional, el cual llevé adelante junto a mi equipo durante el segundo cuatrimestre de 2025 y el primero de 2026.
+
+  Se puede acceder a la [propuesta](https://drive.google.com/file/d/1KOrWlTgbfbc3ggr2O4Di4enBooDm1pFO/view) y a la [entrega final](https://drive.google.com/file/d/1R-jk0k6rmOXWXQ-YuSZEhwCpesnmDIQe/view) del trabajo profesional.
+
+  El proyecto propuso el desarrollo de un sistema basado en técnicas de Data Analytics y Machine Learning, orientado a la estimación de la presión de yacimientos. La solución integra un módulo de predicción que consume y procesa datos físicos del reservorio, entrenando modelos de regresión y aprendizaje profundo, junto con una interfaz web que facilita su uso por parte de ingenieros sin formación específica en ciencia de datos.
+
+  Nuestros tutores fueron Hernan Merlino y Gabriela Savioli que forman parte del [Instituto del Gas y del Petróleo](https://www.fi.uba.ar/institucional/institutos-centros-y-escuelas/instituto-del-gas-y-del-petroleo) de la UBA (IGPUBA).
+
+  El trabajo profesional fue defendido y aprobado el 8 de julio del 2026.
+</div>
+
+---
+
+<div align="center">
   <h3 align="center">Worms 2D: Juego multijugador</h3>
   <p align="center">
     Destacó como proyecto principal un juego multijugador que se desarrolló de forma colaborativa como parte de un trabajo universitario, el cual consiste en una remake del Worms 2D.
